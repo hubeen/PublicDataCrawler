@@ -1,2 +1,2 @@
 # PublicDataCrawler
-정보공개포털(www.open.go.kr) 공공데이터 크롤러
+정보공개포털(www.open.go.kr) 공공데이터 원문 데이터 크롤러
